@@ -3489,7 +3489,17 @@ input, select, textarea {
 			border-radius: 0;
 			width: 35%;
 			background-image: linear-gradient(to right, black , gray);
+			display: flex;
+			padding: 2em 4em;
+			text-align: center;
+			flex-shrink: 0;
 		}
+			.banner.style1 .image .biography {
+			    width: 100%;
+			}
+				.banner.style1 .image .biography h3 {
+				    color: white;
+				}
 
 			.banner.style1 .image img {
 				-moz-object-fit: cover;
