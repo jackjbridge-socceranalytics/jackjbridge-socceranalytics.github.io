@@ -3487,7 +3487,8 @@ input, select, textarea {
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
 			border-radius: 0;
-			width: 50%;
+			width: 35%;
+			background-image: linear-gradient(to right, black , gray);
 		}
 
 			.banner.style1 .image img {
