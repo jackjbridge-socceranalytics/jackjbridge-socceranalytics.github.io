@@ -2704,7 +2704,7 @@ input, select, textarea {
 	}
 
 		ul li {
-			padding-left: 0.5rem;
+			display: inline-block;
 		}
 
 		ul.alt {
