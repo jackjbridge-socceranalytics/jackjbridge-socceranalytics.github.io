@@ -2701,7 +2701,7 @@ input, select, textarea {
 		list-style: disc;
 		margin: 0 0 1rem 0;
 	}
-		.linklist li {
+		.link-list li {
 			display: inline-block;
 		}
 
