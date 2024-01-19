@@ -184,11 +184,11 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2rem 0;
+		
 	}
 
 		p.major {
-			font-size: 1.25rem;
+			font-weight: bold;
 		}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2694,7 +2694,7 @@ input, select, textarea {
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2rem 0;
+		margin: 0 0 1rem 0;
 		padding-left: 1rem;
 	}
 
@@ -3509,7 +3509,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			.banner.style1 .content {
-				padding: 5rem 5rem 3rem 5rem ;
+				padding: 0rem 5rem 25rem 5rem ;
 			}
 
 		}
