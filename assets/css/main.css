@@ -2701,9 +2701,12 @@ input, select, textarea {
 		list-style: disc;
 		margin: 0 0 1rem 0;
 	}
+		.linklist li {
+			display: inline-block;
+		}
 
 		ul li {
-			display: inline-block;
+			
 		}
 
 		ul.alt {
@@ -3478,7 +3481,8 @@ input, select, textarea {
 			flex-shrink: 1;
 			width: 50%;
 			max-width: 48rem;
-			margin: 0 auto;
+		    	margin: 25px auto;
+		    	margin-bottom: 0px;
 		}
 
 		.banner.style1 .image {
@@ -3492,7 +3496,7 @@ input, select, textarea {
 			flex-shrink: 0;
 			border-radius: 0;
 			width: 35%;
-			background-image: linear-gradient(to right, black , gray);
+			background-color: #add8e669;
 			display: flex;
 			padding: 2em 4em;
 			text-align: center;
