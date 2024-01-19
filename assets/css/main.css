@@ -296,6 +296,15 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.skills-and-certs {
+	    	text-align: left;
+		margin-top: 25px;
+	}
+
+	.skills-and-certs h4{
+		font-weight: bold;
+	}
+
 	@media screen and (max-width: 736px) {
 
 		p.major {
