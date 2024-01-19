@@ -3506,7 +3506,8 @@ input, select, textarea {
 			    width: 100%;
 			}
 				.banner.style1 .image .biography h3 {
-				    color: white;
+				       	color: black;
+    					margin-bottom: 5px;
 				}
 
 			.banner.style1 .image img {
