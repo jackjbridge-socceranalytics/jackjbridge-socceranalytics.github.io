@@ -186,7 +186,9 @@ input, select, textarea {
 	p {
 		
 	}
-
+		p.title {
+			font-style: italic;
+		}
 		p.major {
 			font-weight: bold;
 		}
