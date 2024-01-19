@@ -186,6 +186,9 @@ input, select, textarea {
 	p {
 		
 	}
+		p.school-name {
+			font-style: italic;
+		}
 		p.title {
 			font-style: italic;
 		}
