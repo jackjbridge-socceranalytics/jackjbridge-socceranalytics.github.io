@@ -296,6 +296,14 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.published-work {
+		text-align: left;
+	}
+
+	.published-work h4{
+		font-weight: bold;
+	}
+
 	.skills-and-certs {
 	    	text-align: left;
 		margin-top: 25px;
