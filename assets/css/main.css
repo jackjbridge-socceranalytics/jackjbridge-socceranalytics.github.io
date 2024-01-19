@@ -3466,7 +3466,7 @@ input, select, textarea {
 	}
 
 		.banner.style1 .content {
-			padding: 2rem 7rem 5rem 3rem ;
+			margin: 25px 5px 15px 0px;
 			-moz-align-self: center;
 			-webkit-align-self: center;
 			-ms-align-self: center;
